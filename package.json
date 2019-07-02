@@ -1,0 +1,13 @@
+{
+  "name": "album-exif-analyzer",
+  "version": "1.0.0",
+  "description": "Recursively extracts EXIF data of all of the photos in a directory into a analyzable format",
+  "main": "index.js",
+  "repository": "git@github.com:seesemichaelj/album-exif-analyzer.git",
+  "author": "Mike Seese <seesemichaelj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-exif": "^1.0.1",
+    "readdirp": "^3.0.2"
+  }
+}
